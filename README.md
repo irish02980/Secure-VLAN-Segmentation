@@ -9,4 +9,4 @@ This project aims to demonstrate the implementation of a route-on-a-stick, desig
 ISSUES AND TROUBLESHOOTING
 1. As I was configuring the router to be a Router-on-a-Stick, I tried to assign an IP address to the sub-interfaces, but they showed as "Administratively Down." In order to troubleshoot, I had to look at the interface and ran the following 
 command: show ip interface brief. 
-![Interface Status](Interface.png)
+![Interface Status](interface.png)
