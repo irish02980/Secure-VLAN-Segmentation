@@ -1,7 +1,7 @@
 # Secure-VLAN-Segmentation
-Cisco Packet Tracer Lab: Implementing Router-on-a-Stick with Management Plane Hardening (ACLs)
-Author: Iris Hernandez
-Technology: Cisco Packet Tracer, 802.1Q Trunking, Standard ACLS
+Cisco Packet Tracer Lab: Implementing Router-on-a-Stick with Management Plane Hardening (ACLs)  
+Author: Iris Hernandez  
+Technology: Cisco Packet Tracer, 802.1Q Trunking, Standard ACLS  
 
 PROJECT OVERVIEW
 This project demonstrates the implementation of a Router-on-a-Stick topology designed to secure and segment a corporate network's management infrastructure. By creating a dedicated Management VLAN (VLAN 99) and enforcing a Standard Access Control List (ACL) at the sub-interface level, I successfully isolated critical management traffic from the general user segment. This implementation ensures a "Zero-Trust" approach to network administration, preventing unauthorized lateral movement while maintaining full administrative reachability.
