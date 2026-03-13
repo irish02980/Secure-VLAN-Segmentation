@@ -38,7 +38,7 @@ In order to enforce the concept of zero trust boundary and a clear boundary betw
 2) Enforce SSH for encryption.
 
 ### Design Philosophy: Minimalist Functional Design
-This project focuses on Depth over scale. Rather than building a complex topology with redundant devices, I utilized a minimalist architecture to demonstrate mastery of Inter-VLAN routing and Layer 3 security policies. This ensures that the technical focus remains on the precision of the configuration and the effectiveness of the security hardening."
+This project focuses on Depth over scale. Rather than building a complex topology with redundant devices, I utilized a minimalist architecture to demonstrate mastery of Inter-VLAN routing and Layer 3 security policies. This ensures that the technical focus remains on the precision of the configuration and the effectiveness of the security hardening.
 
 ## Security Note: 
 In a production environment, I would ensure that only the necessary sub-interfaces were brought up, following the Principle of Least Privilege to minimize the network's attack surface.
